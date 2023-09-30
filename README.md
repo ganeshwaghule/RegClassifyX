@@ -10,9 +10,13 @@ RegClassifyX is a sophisticated tool designed to classify post-approval variatio
 
 # Features
 **1. User-Friendly Input:** Accepts user input for Change Description.
+
 **2. Advanced ML Model:** Employs a pre-trained Multinomial Naive Bayes classifier & TF-IDF Vectorizer.
+
 **3. Accurate Predictions:** Uses a comprehensive dataset for accurate Variation Category predictions.
+
 **4. Structured Reporting:** Generates a detailed report containing Change Description, Change Type, Predicted Variation Category, Reference, Author, and a Note.
+
 **5. PDF Conversion & Download:** Converts the generated report to PDF format and allows users to download it.
 
 # Workflow
