@@ -21,12 +21,19 @@ RegClassifyX is a sophisticated tool designed to classify post-approval variatio
 
 # Workflow
 **1. Start:** Initiates the process.
+
 **2. Input (Change Description):** User inputs the Change Description.
+
 **3. Load Pre-Trained Model:** Loads the Multinomial Naive Bayes classifier & TF-IDF Vectorizer.
+
 **4. Load Dataset:** Loads the dataset containing Change Descriptions, Change Types, and Variation Categories.
+
 **5. Identification:** Identifies the Variation Category based on the user input using the pre-trained model and dataset.
+
 **6. Generate Report:** Creates a structured report with a timestamp.
+
 **7. Output as PDF:** Converts the generated report to PDF format.
+
 **8. Download PDF:** Allows the user to download the generated PDF report.
 
 # Dataset
@@ -37,9 +44,13 @@ RegClassifyX utilizes a pre-trained Multinomial Naive Bayes classifier in conjun
 
 # Installation on Google Colab
 **1. Open Google Colab:** Navigate to Google Colab.
+
 **2. Upload Notebook:** Click on Upload and select the notebook file from your system.
+
 **3. Mount Google Drive:** Follow the instructions in the notebook to mount your Google Drive.
+
 **4. Run Cells:** Execute the cells in sequence to load the model, dataset, and run the tool.
+
 **5. Input Change Description:** Enter the Change Description when prompted and view the generated report.
 
 # Disclaimer
