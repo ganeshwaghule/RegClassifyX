@@ -6,7 +6,7 @@ RegClassifyX is a sophisticated tool designed to classify post-approval variatio
 2. Ashwini Kumawat
 
 # Process Flowmap of RegClassifyX
-
+![FlowChart drawio](https://github.com/ganeshwaghule/RegClassifyX/assets/142625938/e6ffc05c-911a-4371-8db7-900f4006ba19)
 
 # Features
 **1. User-Friendly Input:** Accepts user input for Change Description.
